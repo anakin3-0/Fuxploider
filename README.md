@@ -13,7 +13,7 @@ Installation
 
 _You will need Python 3.6 at least._
 
-    git clone https://github.com/almandin/fuxploider.git
+    git clone https://github.com/anakin3-0/Fuxploider.git
     cd fuxploider
     pip3 install -r requirements.txt
 
